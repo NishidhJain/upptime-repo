@@ -5,10 +5,14 @@ repo: upptime-repo # The name of this repository
 sites:
   - name: JobDundho
     url: https://jobdundho.com/
+  - name: Github User Dashboard
+    url: https://github-users-dashboard.netlify.app/
+  - name: Movieocity
+    url: https://movieocity.netlify.app
 
 status-website:
   baseUrl: /upptime-repo # where "repo" is your repository name
-  name: Job Dundho status
+  name: Status Page
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

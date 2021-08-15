@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/jobdundho.com",
     "slug": "job-dundho",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 824,
-    "timeDay": 789,
-    "timeWeek": 822,
+    "timeDay": 804,
+    "timeWeek": 821,
     "timeMonth": 820,
     "timeYear": 824,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 229,
-    "timeDay": 234,
-    "timeWeek": 253,
-    "timeMonth": 240,
+    "timeDay": 209,
+    "timeWeek": 250,
+    "timeMonth": 238,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2021-06-09": 39
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
+    "time": 556,
     "timeDay": 232,
-    "timeWeek": 241,
-    "timeMonth": 235,
-    "timeYear": 560,
+    "timeWeek": 240,
+    "timeMonth": 236,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   }
 ]

@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 820,
-    "timeDay": 847,
-    "timeWeek": 842,
+    "timeDay": 804,
+    "timeWeek": 841,
     "timeMonth": 813,
     "timeYear": 820,
     "dailyMinutesDown": {
@@ -27,17 +27,16 @@
     "slug": "github-user-dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 169,
-    "timeWeek": 217,
+    "timeWeek": 215,
     "timeMonth": 218,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-02-04": 6,
       "2021-06-09": 39
     }
   },
@@ -53,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 224,
-    "timeWeek": 331,
+    "timeDay": 239,
+    "timeWeek": 330,
     "timeMonth": 336,
     "timeYear": 362,
     "dailyMinutesDown": {}

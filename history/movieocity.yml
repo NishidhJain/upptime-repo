@@ -1,7 +1,7 @@
 url: https://movieocity.netlify.app
-status: up
-code: 200
-responseTime: 53
-lastUpdated: 2024-09-13T23:08:04.854Z
+status: down
+code: 500
+responseTime: 176
+lastUpdated: 2024-09-14T09:53:55.606Z
 startTime: 2021-05-22T11:31:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

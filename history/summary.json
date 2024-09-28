@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobdundho.com.ico",
     "slug": "job-dundho",
     "status": "up",
-    "uptime": "49.39%",
+    "uptime": "49.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.40%",
-    "time": 341,
-    "timeDay": 133,
-    "timeWeek": 139,
-    "timeMonth": 536,
-    "timeYear": 341,
+    "uptimeYear": "61.68%",
+    "time": 340,
+    "timeDay": 130,
+    "timeWeek": 132,
+    "timeMonth": 538,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2024-08-24": 16,
       "2024-07-18": 61,
@@ -161,8 +161,7 @@
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 1440
+      "2023-09-30": 1440
     }
   },
   {
@@ -177,10 +176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 63,
-    "timeWeek": 91,
-    "timeMonth": 131,
-    "timeYear": 119,
+    "timeDay": 81,
+    "timeWeek": 89,
+    "timeMonth": 132,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -195,10 +194,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 55,
-    "timeWeek": 106,
-    "timeMonth": 552,
-    "timeYear": 165,
+    "timeDay": 50,
+    "timeWeek": 76,
+    "timeMonth": 551,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   }
 ]

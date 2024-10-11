@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.22%",
+    "uptimeYear": "65.24%",
     "time": 373,
     "timeDay": 8177,
     "timeWeek": 1872,
@@ -148,8 +148,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   },
   {
@@ -177,17 +176,15 @@
     "slug": "movieocity",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 115,
     "timeWeek": 135,
     "timeMonth": 567,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2024-10-10": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

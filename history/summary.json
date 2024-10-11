@@ -156,19 +156,19 @@
     "url": "https://github-users-dashboard.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/github-users-dashboard.netlify.app.ico",
     "slug": "github-user-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 132,
-    "timeWeek": 100,
-    "timeMonth": 131,
+    "timeDay": 99,
+    "timeWeek": 93,
+    "timeMonth": 128,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 6
     }
   },
   {

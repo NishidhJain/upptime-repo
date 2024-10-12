@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobdundho.com.ico",
     "slug": "job-dundho",
     "status": "up",
-    "uptime": "50.00%",
+    "uptime": "50.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.54%",
+    "uptimeYear": "65.64%",
     "time": 372,
     "timeDay": 141,
     "timeWeek": 1875,
@@ -173,19 +173,19 @@
     "url": "https://movieocity.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieocity.netlify.app.ico",
     "slug": "movieocity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 41,
-    "timeWeek": 109,
-    "timeMonth": 539,
+    "timeDay": 54,
+    "timeWeek": 108,
+    "timeMonth": 528,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-10-12": 5
+      "2024-10-12": 0
     }
   }
 ]

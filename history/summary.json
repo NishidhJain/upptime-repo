@@ -4,7 +4,7 @@
     "url": "https://jobdundho.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jobdundho.com.ico",
     "slug": "job-dundho",
-    "status": "up",
+    "status": "down",
     "uptime": "52.69%",
     "uptimeDay": "95.61%",
     "uptimeWeek": "97.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 717,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2024-12-22": 0,
       "2024-12-21": 64,
       "2024-12-20": 62,
       "2024-12-19": 17,

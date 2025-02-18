@@ -4,15 +4,15 @@
     "url": "https://jobdundho.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jobdundho.com.ico",
     "slug": "job-dundho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "97.92%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "99.56%",
     "time": 537,
     "timeDay": 148,
-    "timeWeek": 338,
+    "timeWeek": 341,
     "timeMonth": 400,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -69,8 +69,7 @@
       "2024-12-14": 16,
       "2024-12-13": 74,
       "2024-12-10": 77,
-      "2024-12-06": 42,
-      "2024-12-05": 16
+      "2024-12-06": 42
     }
   },
   {
@@ -80,18 +79,16 @@
     "slug": "github-user-dashboard",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 144,
     "timeWeek": 152,
     "timeMonth": 152,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-02-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Movieocity",
@@ -100,17 +97,16 @@
     "slug": "movieocity",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 195,
     "timeWeek": 127,
     "timeMonth": 115,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-02-18": 6,
       "2024-10-12": 26
     }
   }

@@ -6,17 +6,16 @@
     "slug": "job-dundho",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.57%",
     "time": 525,
     "timeDay": 146,
     "timeWeek": 436,
-    "timeMonth": 309,
+    "timeMonth": 325,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-02-28": 6,
       "2025-02-27": 37,
       "2025-02-26": 81,
       "2025-02-25": 24,
@@ -71,7 +70,8 @@
       "2024-12-22": 35,
       "2024-12-21": 64,
       "2024-12-20": 62,
-      "2024-12-19": 17
+      "2024-12-19": 17,
+      "2024-12-18": 18
     }
   },
   {
@@ -88,7 +88,7 @@
     "time": 123,
     "timeDay": 484,
     "timeWeek": 123,
-    "timeMonth": 158,
+    "timeMonth": 156,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -106,8 +106,8 @@
     "time": 164,
     "timeDay": 120,
     "timeWeek": 124,
-    "timeMonth": 103,
-    "timeYear": 175,
+    "timeMonth": 107,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2024-10-12": 26
     }

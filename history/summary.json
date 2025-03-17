@@ -6,17 +6,17 @@
     "slug": "job-dundho",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.56%",
     "time": 503,
-    "timeDay": 121,
-    "timeWeek": 143,
-    "timeMonth": 310,
-    "timeYear": 513,
+    "timeDay": 126,
+    "timeWeek": 144,
+    "timeMonth": 315,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2025-03-16": 24,
+      "2025-03-16": 18,
       "2025-03-15": 49,
       "2025-03-10": 37,
       "2025-03-07": 48,
@@ -71,7 +71,8 @@
       "2024-12-31": 18,
       "2024-12-29": 17,
       "2024-12-28": 35,
-      "2024-12-27": 69
+      "2024-12-27": 69,
+      "2024-12-26": 17
     }
   },
   {
@@ -86,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 579,
-    "timeWeek": 315,
-    "timeMonth": 149,
-    "timeYear": 125,
+    "timeDay": 46,
+    "timeWeek": 273,
+    "timeMonth": 148,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -104,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 85,
-    "timeWeek": 132,
-    "timeMonth": 127,
+    "timeDay": 36,
+    "timeWeek": 131,
+    "timeMonth": 126,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2024-10-12": 26

@@ -6,16 +6,17 @@
     "slug": "job-dundho",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "95.77%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "99.39%",
     "time": 466,
-    "timeDay": 139,
-    "timeWeek": 173,
+    "timeDay": 136,
+    "timeWeek": 172,
     "timeMonth": 172,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2025-04-11": 6,
       "2025-04-10": 25,
       "2025-04-09": 250,
       "2025-04-08": 532,
@@ -74,8 +75,7 @@
       "2025-01-25": 70,
       "2025-01-21": 34,
       "2025-01-20": 16,
-      "2025-01-19": 90,
-      "2025-01-18": 3
+      "2025-01-19": 34
     }
   },
   {

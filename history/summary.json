@@ -4,11 +4,11 @@
     "url": "https://jobdundho.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jobdundho.com.ico",
     "slug": "job-dundho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "99.29%",
     "time": 431,
     "timeDay": 146,
@@ -16,7 +16,7 @@
     "timeMonth": 243,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-05-31": 45,
+      "2025-05-31": 39,
       "2025-05-30": 37,
       "2025-05-29": 19,
       "2025-05-28": 18,
@@ -65,7 +65,8 @@
       "2025-03-28": 127,
       "2025-03-27": 22,
       "2025-03-26": 44,
-      "2025-03-24": 44
+      "2025-03-24": 44,
+      "2025-03-23": 23
     }
   },
   {

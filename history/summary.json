@@ -88,19 +88,19 @@
     "url": "https://movieocity.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieocity.netlify.app.ico",
     "slug": "movieocity",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 67,
-    "timeWeek": 150,
-    "timeMonth": 146,
-    "timeYear": 179,
+    "timeDay": 74,
+    "timeWeek": 141,
+    "timeMonth": 144,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-07-02": 0,
+      "2025-07-02": 5,
       "2024-10-12": 26
     }
   }

@@ -13,7 +13,7 @@
     "time": 388,
     "timeDay": 220,
     "timeWeek": 201,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2025-09-25": 32,
@@ -102,9 +102,9 @@
     "url": "https://movieocity.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieocity.netlify.app.ico",
     "slug": "movieocity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -114,6 +114,7 @@
     "timeMonth": 191,
     "timeYear": 149,
     "dailyMinutesDown": {
+      "2025-10-04": 0,
       "2025-09-26": 28,
       "2025-09-09": 17,
       "2025-08-15": 22,

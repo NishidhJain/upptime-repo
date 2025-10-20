@@ -85,9 +85,9 @@
     "url": "https://github-users-dashboard.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/github-users-dashboard.netlify.app.ico",
     "slug": "github-user-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +96,9 @@
     "timeWeek": 188,
     "timeMonth": 161,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "Movieocity",

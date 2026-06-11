@@ -8,15 +8,14 @@
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "91.57%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "91.58%",
     "time": 242,
-    "timeDay": 195,
-    "timeWeek": 119,
-    "timeMonth": 174,
+    "timeDay": 136,
+    "timeWeek": 121,
+    "timeMonth": 173,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-06-11": 36,
       "2025-06-12": 123,
       "2025-06-13": 101,
       "2025-06-16": 99,
@@ -116,21 +115,22 @@
     "url": "https://github-users-dashboard.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/github-users-dashboard.netlify.app.ico",
     "slug": "github-user-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 253,
-    "timeDay": 369,
+    "time": 254,
+    "timeDay": 0,
     "timeWeek": 362,
-    "timeMonth": 424,
+    "timeMonth": 413,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-10-20": 34,
       "2025-11-05": 24,
-      "2026-05-10": 106
+      "2026-05-10": 106,
+      "2026-06-11": 5
     }
   },
   {
@@ -138,16 +138,16 @@
     "url": "https://movieocity.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieocity.netlify.app.ico",
     "slug": "movieocity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 198,
-    "timeDay": 478,
+    "timeDay": 0,
     "timeWeek": 295,
-    "timeMonth": 336,
+    "timeMonth": 325,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-07-28": 66,
@@ -169,7 +169,8 @@
       "2026-02-12": 47,
       "2026-04-21": 48,
       "2026-04-22": 114,
-      "2026-05-10": 105
+      "2026-05-10": 105,
+      "2026-06-11": 0
     }
   }
 ]

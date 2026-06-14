@@ -114,23 +114,23 @@
     "url": "https://github-users-dashboard.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/github-users-dashboard.netlify.app.ico",
     "slug": "github-user-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.94%",
     "time": 257,
-    "timeDay": 502,
-    "timeWeek": 431,
-    "timeMonth": 446,
+    "timeDay": 341,
+    "timeWeek": 400,
+    "timeMonth": 438,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2025-10-20": 34,
       "2025-11-05": 24,
       "2026-05-10": 106,
       "2026-06-11": 82,
-      "2026-06-14": 5
+      "2026-06-14": 64
     }
   },
   {
@@ -138,17 +138,17 @@
     "url": "https://movieocity.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieocity.netlify.app.ico",
     "slug": "movieocity",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.84%",
-    "time": 201,
-    "timeDay": 226,
-    "timeWeek": 317,
-    "timeMonth": 330,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.83%",
+    "time": 202,
+    "timeDay": 389,
+    "timeWeek": 346,
+    "timeMonth": 337,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2025-07-28": 66,
       "2025-08-04": 19,
@@ -171,7 +171,7 @@
       "2026-04-22": 114,
       "2026-05-10": 105,
       "2026-06-11": 77,
-      "2026-06-14": 0
+      "2026-06-14": 59
     }
   }
 ]
